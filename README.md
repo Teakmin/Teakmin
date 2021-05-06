@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there
+## -I'm trying...
+
+
+I'm a mechanical engineering student of Inha Uni. 
+
+I'm currently trying to get familiar with Java 
+
+## It's about 
+- Algorithms from BOJ
+- pygame
+
 
 <!--
 **Teakmin/Teakmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
