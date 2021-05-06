@@ -3,7 +3,7 @@
 I'm a mechanical engineering student of Inha Uni. 
 I'm looking for colaborating with you
 
-## -I'm trying...
+## -I'm doing now
 I'm currently trying to get familiar with Java 
 
 ## It's about 
