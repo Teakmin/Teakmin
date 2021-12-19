@@ -8,7 +8,7 @@ I'm currently trying to get familiar with Java
 
 ## It's about 
 - Algorithms from BOJ
-- pygame
+- studying bout Java, Python, C
 
 
 <!--
